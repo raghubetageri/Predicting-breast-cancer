@@ -1,4 +1,4 @@
-# Predictiting-breast-cancer
+# Predict-breast-cancer
 here we will predict the  breast cancer like it is maligant, benigns
 requirments
 python3
