@@ -20,6 +20,8 @@ sklearn:library which features various classification,regression and clustering 
 #To use this Project
 
 $ git clone https://github.com/raghubetageri/Predicting-breast-cancer.git
+
 $ pip install -r requirements.txt
+
 $ python python mlbrst.py
  
