@@ -23,5 +23,5 @@ $ git clone https://github.com/raghubetageri/Predicting-breast-cancer.git
 
 $ pip install -r requirements.txt
 
-$ python python mlbrst.py
+$ python mlbrst.py
  
