@@ -12,4 +12,5 @@ https://raw.githubusercontent.com/ingledarshan/AIML-B2/main/data.csv
 
 
 #To use this Project
-$ git clone 
+
+$ git clone https://github.com/raghubetageri/Predicting-breast-cancer.git
